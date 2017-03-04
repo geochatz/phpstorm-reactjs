@@ -5,10 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/geochatz/phpstorm-reactjs.git",
   "author": "geochatz",
-  "license": "unlicense",
+  "license": "unlicensed",
   "scripts": {
-    "build": "nodezip -c settings.jar templates/ReactJS.xml",
-    "prerelease": "npm run build"
+    "build": "nodezip -c settings.jar templates/ReactJS.xml \"IntelliJ IDEA Global Settings\""
   },
   "devDependencies": {
     "node-zip": "^1.1.1"

@@ -1,1 +1,16 @@
-# Created by .ignore support plugin (hsz.mobi)
+### JetBrains
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+.idea
+
+### Node
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Typescript v1 declaration files
+typings/
