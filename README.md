@@ -3,11 +3,11 @@ ReactJS Live templates for PHPStorm
 
 ### How to:
 
-1. Download [settings.jar](raw/master/settings.jar) file
+1. Download [settings.jar](https://github.com/geochatz/phpstorm-reactjs/raw/master/settings.jar) file
 1. Click `File` -> `Importing Settings...` on your IDE menu, select `settings.jar`, then click `OK`.
 
 #### Manually insert template file
-1. [Download](raw/master/template/ReactJS.xml) and copy the *xml* file(s) to your templates folder:
+1. [Download](https://github.com/geochatz/phpstorm-reactjs/raw/master/template/ReactJS.xml) and copy the *xml* file(s) to your templates folder:
 
     * Windows: `<your home directory>\.<product name><version number>\config\templates`
     * Linux: `~\.<product name><version number>\config\templates`
