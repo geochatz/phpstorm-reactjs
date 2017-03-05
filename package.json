@@ -1,0 +1,15 @@
+{
+  "name": "phpstorm-reactjs",
+  "version": "0.0.1",
+  "description": "ReactJS Live templates for PHPStorm",
+  "main": "index.js",
+  "repository": "https://github.com/geochatz/phpstorm-reactjs.git",
+  "author": "geochatz",
+  "license": "unlicensed",
+  "scripts": {
+    "build": "nodezip -c settings.jar templates/ReactJS.xml \"IntelliJ IDEA Global Settings\""
+  },
+  "devDependencies": {
+    "node-zip": "^1.1.1"
+  }
+}
